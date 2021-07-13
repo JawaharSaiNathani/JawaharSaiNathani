@@ -5,4 +5,5 @@
 - 👀 I’m interested in Machine Learning and AI.
 - 🌱 I’m currently working on integration of Unity3D and AI.
 - 🏢 I'm looking for internship position in Machine Learning and AI.
-- 📫 ph_no: +916303207805  email: jawaharsainathani@gmail.com
+- 📞 ph_no: +916303207805 
+- 📫 email: jawaharsainathani@gmail.com
